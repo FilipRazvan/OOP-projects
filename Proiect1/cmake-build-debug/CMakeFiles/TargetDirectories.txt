@@ -1,0 +1,3 @@
+D:/Facultate/anul 2/POo/cpp/Proiectul 1/cmake-build-debug/CMakeFiles/cpp.dir
+D:/Facultate/anul 2/POo/cpp/Proiectul 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Facultate/anul 2/POo/cpp/Proiectul 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

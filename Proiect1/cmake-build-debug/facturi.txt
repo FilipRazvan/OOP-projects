@@ -1,0 +1,13 @@
+FACTURA1
+ Pretul este:632.792
+FACTURA2
+ Pretul este:751.44
+FACTURA3
+ Pretul este:1885
+FACTURA4
+Pretul:165
+Este pensionar? DA=1 , NU=0 :0
+Pe ce perioada?1
+Are vechime? DA=1 , NU=0 :1
+Varsta:90
+165
