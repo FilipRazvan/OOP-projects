@@ -1,0 +1,3 @@
+"D:\Facultate\anul 2\POo\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Proiectul_2.dir/objects.a
+D:\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\Proiectul_2.dir/objects.a @CMakeFiles\Proiectul_2.dir\objects1.rsp
+D:\CodeBlocks\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Proiectul_2.dir/objects.a -Wl,--no-whole-archive -o Proiectul_2.exe -Wl,--out-implib,libProiectul_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Proiectul_2.dir\linklibs.rsp
