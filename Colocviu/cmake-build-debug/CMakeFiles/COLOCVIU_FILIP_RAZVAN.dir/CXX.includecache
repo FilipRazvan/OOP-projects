@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Facultate/anul 2/POo/cpp/COLOCVIU_FILIP_RAZVAN/main.cpp
+iostream
+-
+vector
+-
+

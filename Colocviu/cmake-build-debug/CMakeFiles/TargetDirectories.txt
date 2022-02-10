@@ -1,0 +1,3 @@
+D:/Facultate/anul 2/POo/cpp/COLOCVIU_FILIP_RAZVAN/cmake-build-debug/CMakeFiles/COLOCVIU_FILIP_RAZVAN.dir
+D:/Facultate/anul 2/POo/cpp/COLOCVIU_FILIP_RAZVAN/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Facultate/anul 2/POo/cpp/COLOCVIU_FILIP_RAZVAN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
